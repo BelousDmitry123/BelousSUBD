@@ -16,7 +16,7 @@ namespace СУБД_Кадры_Белоус
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FormMain());
+            Application.Run(new FormMain()); 
         }
     }
 }
