@@ -1,0 +1,12 @@
+D:\VisualStudio\СУБД_Кадры_Белоус\СУБД_Кадры_Белоус\obj\Debug\СУБД_Кадры_Белоус.csproj.AssemblyReference.cache
+D:\VisualStudio\СУБД_Кадры_Белоус\СУБД_Кадры_Белоус\obj\Debug\СУБД_Кадры_Белоус.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudio\СУБД_Кадры_Белоус\СУБД_Кадры_Белоус\obj\Debug\СУБД_Кадры_Белоус.fAdd.resources
+D:\VisualStudio\СУБД_Кадры_Белоус\СУБД_Кадры_Белоус\obj\Debug\СУБД_Кадры_Белоус.FormMain.resources
+D:\VisualStudio\СУБД_Кадры_Белоус\СУБД_Кадры_Белоус\obj\Debug\СУБД_Кадры_Белоус.Properties.Resources.resources
+D:\VisualStudio\СУБД_Кадры_Белоус\СУБД_Кадры_Белоус\obj\Debug\СУБД_Кадры_Белоус.csproj.GenerateResource.cache
+D:\VisualStudio\СУБД_Кадры_Белоус\СУБД_Кадры_Белоус\obj\Debug\СУБД_Кадры_Белоус.csproj.CoreCompileInputs.cache
+D:\VisualStudio\СУБД_Кадры_Белоус\СУБД_Кадры_Белоус\bin\Debug\СУБД_Кадры_Белоус.exe.config
+D:\VisualStudio\СУБД_Кадры_Белоус\СУБД_Кадры_Белоус\bin\Debug\СУБД_Кадры_Белоус.exe
+D:\VisualStudio\СУБД_Кадры_Белоус\СУБД_Кадры_Белоус\bin\Debug\СУБД_Кадры_Белоус.pdb
+D:\VisualStudio\СУБД_Кадры_Белоус\СУБД_Кадры_Белоус\obj\Debug\СУБД_Кадры_Белоус.exe
+D:\VisualStudio\СУБД_Кадры_Белоус\СУБД_Кадры_Белоус\obj\Debug\СУБД_Кадры_Белоус.pdb
